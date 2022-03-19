@@ -1,0 +1,10 @@
+{
+	"id": "no-startup-page",
+	"name": "No Startup Page",
+	"version": "1.0.0",
+	"minAppVersion": "0.11.13",
+	"description": "Open Obsidian to blank page on startup",
+	"author": "risonakamo",
+	"authorUrl": "https://github.com/risonakamo",
+	"isDesktopOnly": true
+}
